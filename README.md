@@ -31,8 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout:
 
-![vídeo tela](https://github.com/ricardoltt/ignite-desafio01/blob/main/.github/video-tela.mp4)
-[![video tela]()](https://github.com/ricardoltt/ignite-desafio01/blob/main/.github/video-tela.mp4)
+![vídeo tela](https://github.com/ricardoltt/ignite-desafio01/blob/main/.github/video-tela.gif)
 
 
 
