@@ -1,7 +1,7 @@
 :root {
   --blue: #273FAD;
   --green: #3FAD27;
-  --red: 	#ad273f;
+  --red: #ad273f;
   --background: #EBEBEB;
   --shapes: #FFFFFF;
   --text-title: #3D3D4D;
@@ -18,9 +18,11 @@
 body {
   font: 16px "Poppins", Arial, sans-serif;
   color: #121214;
+  background-color: var(--background);
 }
 
-input, textarea {
+input,
+textarea {
   font-family: "Poppins";
 }
 
@@ -30,6 +32,7 @@ input, textarea {
   padding: 2.5rem 1rem;
 }
 
-button, .checkmark {
+button,
+.checkmark {
   cursor: pointer;
 }
