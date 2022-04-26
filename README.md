@@ -1,4 +1,4 @@
-<img alt="ignite" src="https://github.com/ricardoltt/ignite-desafio01/blob/main/.github/background.png" />
+<img alt="ignite" src="https://github.com/ricardoltt/ignite-desafio01/blob/main/.github/image-back.png" />
 
 <h2 align="center">
  Ignite - Desafio 01
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout:
 
-![vídeo tela](https://github.com/ricardoltt/ignite-desafio01/blob/main/.github/video-tela.gif)
+![vídeo tela](https://github.com/ricardoltt/ignite-desafio01/blob/main/.github/gif-site.gif)
 
 
 
