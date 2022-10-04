@@ -12,9 +12,6 @@ Foi desenvolvida com o objetivo de treinar **manipulação de estado** no ReactJ
 
 <img alt="ignite" src="./.github/1.jpeg" />
 
-- Adicionar uma nova tarefa
-- Remover uma tarefa
-- Marcar e desmarcar uma tarefa como concluída
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -25,6 +22,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Webpack](https://webpack.js.org/)
 
 ## 🔖 Funcionalidades:
+
+- Adicionar uma nova tarefa
+- Remover uma tarefa
+- Marcar e desmarcar uma tarefa como concluída
+
+
 ![vídeo tela](https://github.com/ricardoltt/ignite-desafio01/blob/main/.github/gif-site.gif)
 
 ```bash
