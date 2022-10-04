@@ -8,16 +8,13 @@
 
 Uma aplicação clássica de atividades a fazer.
 
-Foi desenvolvida com o objetivo de treinar manipulação de estado no ReactJS, utilizando Typescript e trainando conceitos de hooks de estado como useState.
+Foi desenvolvida com o objetivo de treinar **manipulação de estado** no ReactJS, utilizando Typescript e trainando conceitos de hooks de estado como useState.
 
 <img alt="ignite" src="./.github/1.jpeg" />
 
 - Adicionar uma nova tarefa
 - Remover uma tarefa
 - Marcar e desmarcar uma tarefa como concluída
-
-<img alt="ignite" src="./.github/gif-site.jpeg" />
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -28,9 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Webpack](https://webpack.js.org/)
 
 ## 🔖 Funcionalidades:
-
 ![vídeo tela](https://github.com/ricardoltt/ignite-desafio01/blob/main/.github/gif-site.gif)
 
 ### Let's code! 🚀
-
-<div align="center">Made with love by **Ricardo Temoteo** ❤️ Me adiciona no [Linkedin!](https://www.linkedin.com/in/ricardoltt/)
+Made with love by **Ricardo Temoteo** ❤️ Me adiciona no [Linkedin!](https://www.linkedin.com/in/ricardoltt/)
