@@ -1,41 +1,36 @@
-<img alt="ignite" src="https://github.com/ricardoltt/ignite-desafio01/blob/main/.github/image-back.png" />
+<img alt="ignite" src="./.github/image-back.png" />
 
-<h2 align="center">
- Ignite - Desafio 01
-</h2>
-
-
+<div align="center">
+<img src="./.github/logo.svg" alt="to.do"/>
+</div>
 
 ## 💻 Desafio
 
-Nesse desafio, criamos uma aplicação para treinar o que aprendemos até agora no ReactJS
+Uma aplicação clássica de atividades a fazer.
 
-O objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+Foi desenvolvida com o objetivo de treinar manipulação de estado no ReactJS, utilizando Typescript e trainando conceitos de hooks de estado como useState.
+
+<img alt="ignite" src="./.github/1.jpeg" />
 
 - Adicionar uma nova tarefa
 - Remover uma tarefa
 - Marcar e desmarcar uma tarefa como concluída
 
-
+<img alt="ignite" src="./.github/gif-site.jpeg" />
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- ReactJS
-- TypeScript
-- Babel
-- Webpack
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Babel](https://babeljs.io/)
+- [Webpack](https://webpack.js.org/)
 
-
-
-## 🔖 Layout:
+## 🔖 Funcionalidades:
 
 ![vídeo tela](https://github.com/ricardoltt/ignite-desafio01/blob/main/.github/gif-site.gif)
 
-
-
 ### Let's code! 🚀
 
-Made with love by **Ricardo Temoteo** ❤️ Me adiciona no [Linkedin!](https://www.linkedin.com/in/ricardoltt/)
-
+<div align="center">Made with love by **Ricardo Temoteo** ❤️ Me adiciona no [Linkedin!](https://www.linkedin.com/in/ricardoltt/)
