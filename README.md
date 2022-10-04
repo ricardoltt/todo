@@ -27,5 +27,21 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔖 Funcionalidades:
 ![vídeo tela](https://github.com/ricardoltt/ignite-desafio01/blob/main/.github/gif-site.gif)
 
+```bash
+# Clone this project
+$ git clone https://github.com/ricardoltt/todo
+
+# Access
+$ cd todo
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn dev
+
+# The server will initialize in the <http://localhost:8080>
+```
+
 ### Let's code! 🚀
 Made with love by **Ricardo Temoteo** ❤️ Me adiciona no [Linkedin!](https://www.linkedin.com/in/ricardoltt/)
